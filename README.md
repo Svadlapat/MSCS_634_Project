@@ -1,9 +1,9 @@
-# 📊 Customer Churn Analysis
+#  Customer Churn Analysis
 
-## 📌 Dataset
+##  Dataset
 This project uses the Telco Customer Churn dataset, which contains around 7,000 customer records and 20+ features. The dataset includes customer demographics, services, billing information, and contract details. The target variable is Churn.
 
-## ⚙️ Project Steps
+##  Project Steps
 1. Data Cleaning & Preprocessing
    - Removed missing values and duplicates
    - Converted data types (TotalCharges to numeric)
@@ -34,7 +34,7 @@ This project uses the Telco Customer Churn dataset, which contains around 7,000 
    - Explored Apriori algorithm
    - Not fully applied due to non-transactional dataset
 
-## 📊 Major Findings
+##  Major Findings
 - Customers with low tenure are more likely to churn
 - High monthly charges increase churn probability
 - Customer segmentation helps identify high-value customers
