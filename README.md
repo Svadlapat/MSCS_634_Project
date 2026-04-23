@@ -40,5 +40,5 @@ This project uses the Telco Customer Churn dataset, which contains around 7,000 
 - Customer segmentation helps identify high-value customers
 - Predictive models effectively estimate churn behavior
 
-## 📌 Conclusion
+##  Conclusion
 This project demonstrates how data mining techniques can be used to analyze customer behavior and support better business decisions.
